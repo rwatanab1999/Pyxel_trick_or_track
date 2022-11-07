@@ -1,7 +1,9 @@
 # Pyxel_trick_or_track
 <img width="953" alt="image_home" src="https://user-images.githubusercontent.com/101140119/200431082-d521a164-988b-44f0-9b53-20f6ec9cadd0.png">
+
 # はじめに
-<!-- 発端や概要を記載 -->
+(Qiitaへ投稿した記事をそのまま転載しています．以下が記事へのリンクです．)
+- [Qiita](https://qiita.com/rwatanab1999/items/d5c0bb876f0b44cac2f0)
 はじめまして，
 [42tokyo Advent Calendar 2022](https://qiita.com/advent-calendar/2022/42tokyo)の8日目を担当する、changです．
 今回は，Python向けのレトロゲームエンジンであるPyxelを使って，簡単なミニゲームを制作しました．Pyxelはゼロベースで学習しながらの制作でした．その際に学んだこと，役に立った知識や文献等を，時系列を追って簡単にまとめます．尚，今回はサウンドや効果音周りにまでは手を広げず，あくまでも最低限の基本要素のみとさせていただきます．
